@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mkg21
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning networks and security
+- 👀 I’m interested 
 - 💞️ I’m looking to collaborate on ><
 - 📫 How to reach me :*
 
